@@ -1,0 +1,16 @@
+2026-10-05 20:29:23 [main] INFO  com.testCases.TC_001_AccountRegistration - Opening chrome browser
+2026-10-05 20:29:26 [main] INFO  com.testCases.TC_001_AccountRegistration - *********Starting Accountregitration testcase**********
+2026-10-05 20:29:26 [main] INFO  com.testCases.TC_001_AccountRegistration - click on myaccount
+2026-10-05 20:29:27 [main] INFO  com.testCases.TC_001_AccountRegistration - click on Register
+2026-10-05 20:29:27 [main] INFO  com.testCases.TC_001_AccountRegistration - Providing customer details
+2026-10-05 20:29:32 [main] INFO  com.testCases.TC_001_AccountRegistration - Valaidating confirmation message
+2026-10-05 20:29:32 [main] INFO  com.testCases.TC_001_AccountRegistration - Account Created Successfully
+2026-10-05 20:29:32 [main] INFO  com.testCases.TC_001_AccountRegistration - Account regstration test is finished
+2026-10-05 20:29:33 [main] INFO  com.testCases.TC_002_UserLogin - Opening chrome browser
+2026-10-05 20:29:36 [main] INFO  com.testCases.TC_002_UserLogin - *********Starting UserLogin testcase**********
+2026-10-05 20:29:36 [main] INFO  com.testCases.TC_002_UserLogin - click on Myaccount
+2026-10-05 20:29:37 [main] INFO  com.testCases.TC_002_UserLogin - click on Login
+2026-10-05 20:29:37 [main] INFO  com.testCases.TC_002_UserLogin - Providing login details
+2026-10-05 20:29:38 [main] INFO  com.testCases.TC_002_UserLogin - Validating login details
+2026-10-05 20:29:48 [main] ERROR com.testCases.TC_002_UserLogin - Exception occurred during login test: expected [true] but found [false]
+2026-10-05 20:29:48 [main] INFO  com.testCases.TC_002_UserLogin - Screenshot taken: C:\Users\admin\eclipse-workspace2\AutoZen\Screenshots\UserLoginFailure_2026.10.05.20.29.48.png

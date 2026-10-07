@@ -1,0 +1,17 @@
+2026-10-05 19:33:38 [main] INFO  com.testCases.TC_001_AccountRegistration - Opening chrome browser
+2026-10-05 19:33:42 [main] INFO  com.testCases.TC_001_AccountRegistration - *********Starting Accountregitration testcase**********
+2026-10-05 19:33:42 [main] INFO  com.testCases.TC_001_AccountRegistration - click on myaccount
+2026-10-05 19:33:43 [main] INFO  com.testCases.TC_001_AccountRegistration - click on Register
+2026-10-05 19:33:43 [main] INFO  com.testCases.TC_001_AccountRegistration - Providing customer details
+2026-10-05 19:33:48 [main] INFO  com.testCases.TC_001_AccountRegistration - Valaidating confirmation message
+2026-10-05 19:33:48 [main] INFO  com.testCases.TC_001_AccountRegistration - Account Created Successfully
+2026-10-05 19:33:48 [main] INFO  com.testCases.TC_001_AccountRegistration - Account regstration test is finished
+2026-10-05 19:33:49 [main] INFO  com.testCases.TC_001_AccountRegistration - Opening edge browser
+2026-10-05 19:33:52 [main] INFO  com.testCases.TC_001_AccountRegistration - *********Starting Accountregitration testcase**********
+2026-10-05 19:33:52 [main] INFO  com.testCases.TC_001_AccountRegistration - click on myaccount
+2026-10-05 19:33:53 [main] INFO  com.testCases.TC_001_AccountRegistration - click on Register
+2026-10-05 19:33:53 [main] INFO  com.testCases.TC_001_AccountRegistration - Providing customer details
+2026-10-05 19:33:58 [main] INFO  com.testCases.TC_001_AccountRegistration - Valaidating confirmation message
+2026-10-05 19:33:58 [main] INFO  com.testCases.TC_001_AccountRegistration - Account Created Successfully
+2026-10-05 19:33:58 [main] INFO  com.testCases.TC_001_AccountRegistration - Account regstration test is finished
+2026-10-05 19:33:58 [main] INFO  com.testCases.TC_001_AccountRegistration - Opening firefox browser

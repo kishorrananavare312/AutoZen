@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Parallel Suite">
+ <test  name="Test">
+ <parameter name="browser" value="chrome"></parameter>
+  <classes>
+<class name="com.testCases.TC_001_AccountRegistration"/>
+        <class name="com.testCases.TC_002_UserLogin"/>
+ </classes>
+  </test> <!-- Test -->
+  
+
+</suite> <!-- Suite -->

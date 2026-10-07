@@ -1,0 +1,15 @@
+2026-10-07 20:04:02 [main] INFO  com.testCases.TC_001_AccountRegistration - *********Starting Accountregitration testcase**********
+2026-10-07 20:04:02 [main] INFO  com.testCases.TC_001_AccountRegistration - click on myaccount
+2026-10-07 20:04:03 [main] INFO  com.testCases.TC_001_AccountRegistration - click on Register
+2026-10-07 20:04:03 [main] INFO  com.testCases.TC_001_AccountRegistration - Providing customer details
+2026-10-07 20:04:08 [main] INFO  com.testCases.TC_001_AccountRegistration - Valaidating confirmation message
+2026-10-07 20:04:08 [main] INFO  com.testCases.TC_001_AccountRegistration - Account Created Successfully
+2026-10-07 20:04:08 [main] INFO  com.testCases.TC_001_AccountRegistration - Account regstration test is finished
+2026-10-07 20:04:09 [main] INFO  com.testCases.TC_002_UserLogin - Opening chrome browser
+2026-10-07 20:04:12 [main] INFO  com.testCases.TC_002_UserLogin - *********Starting UserLogin testcase**********
+2026-10-07 20:04:12 [main] INFO  com.testCases.TC_002_UserLogin - click on Myaccount
+2026-10-07 20:04:12 [main] INFO  com.testCases.TC_002_UserLogin - click on Login
+2026-10-07 20:04:12 [main] INFO  com.testCases.TC_002_UserLogin - Providing login details
+2026-10-07 20:04:13 [main] INFO  com.testCases.TC_002_UserLogin - Validating login details
+2026-10-07 20:04:14 [main] INFO  com.testCases.TC_002_UserLogin - Login Successfully
+2026-10-07 20:04:14 [main] INFO  com.testCases.TC_002_UserLogin - login test is finished

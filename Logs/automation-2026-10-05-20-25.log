@@ -1,0 +1,5 @@
+2026-10-05 20:25:53 [main] INFO  com.testCases.TC_001_AccountRegistration - Opening chrome browser
+2026-10-05 20:25:58 [main] INFO  com.testCases.TC_001_AccountRegistration - *********Starting Accountregitration testcase**********
+2026-10-05 20:25:58 [main] INFO  com.testCases.TC_001_AccountRegistration - click on myaccount
+2026-10-05 20:25:59 [main] INFO  com.testCases.TC_001_AccountRegistration - click on Register
+2026-10-05 20:25:59 [main] INFO  com.testCases.TC_001_AccountRegistration - Providing customer details

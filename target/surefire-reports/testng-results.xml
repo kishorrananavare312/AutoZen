@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-07T20:33:46 IST" name="Parallel Suite" finished-at="2026-10-07T20:34:19 IST" duration-ms="32893">
+    <groups>
+      <group name="Sanity">
+        <method signature="TC_001_AccountRegistration.accountregistrationverify()[pri:0, instance:com.testCases.TC_001_AccountRegistration@4721d212]" name="accountregistrationverify" class="com.testCases.TC_001_AccountRegistration"/>
+        <method signature="TC_002_UserLogin.Userlogin()[pri:0, instance:com.testCases.TC_002_UserLogin@5827af16]" name="Userlogin" class="com.testCases.TC_002_UserLogin"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TC_002_UserLogin.Userlogin()[pri:0, instance:com.testCases.TC_002_UserLogin@5827af16]" name="Userlogin" class="com.testCases.TC_002_UserLogin"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2026-10-07T20:33:46 IST" name="Test" finished-at="2026-10-07T20:34:19 IST" duration-ms="32893">
+      <class name="com.testCases.TC_001_AccountRegistration">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.testCases.TC_001_AccountRegistration@4721d212]" started-at="2026-10-07T20:33:46 IST" name="Setup" finished-at="2026-10-07T20:34:05 IST" duration-ms="18510" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="accountregistrationverify()[pri:0, instance:com.testCases.TC_001_AccountRegistration@4721d212]" started-at="2026-10-07T20:34:05 IST" name="accountregistrationverify" finished-at="2026-10-07T20:34:14 IST" duration-ms="8672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountregistrationverify -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.testCases.TC_001_AccountRegistration@4721d212]" started-at="2026-10-07T20:34:14 IST" name="Teardown" finished-at="2026-10-07T20:34:14 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.testCases.TC_001_AccountRegistration -->
+      <class name="com.testCases.TC_002_UserLogin">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.testCases.TC_002_UserLogin@5827af16]" started-at="2026-10-07T20:34:14 IST" name="Setup" finished-at="2026-10-07T20:34:17 IST" duration-ms="2844" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Userlogin()[pri:0, instance:com.testCases.TC_002_UserLogin@5827af16]" started-at="2026-10-07T20:34:17 IST" name="Userlogin" finished-at="2026-10-07T20:34:19 IST" duration-ms="2173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Userlogin -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.testCases.TC_002_UserLogin@5827af16]" started-at="2026-10-07T20:34:19 IST" name="Teardown" finished-at="2026-10-07T20:34:19 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.testCases.TC_002_UserLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Parallel Suite -->
+</testng-results>

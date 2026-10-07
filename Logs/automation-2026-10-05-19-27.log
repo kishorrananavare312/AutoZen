@@ -1,0 +1,5 @@
+2026-10-05 19:27:37 [TestNG-tests-1] INFO  com.testCases.TC_001_AccountRegistration - Opening chrome browser
+2026-10-05 19:27:44 [TestNG-tests-1] INFO  com.testCases.TC_001_AccountRegistration - *********Starting Accountregitration testcase**********
+2026-10-05 19:27:44 [TestNG-tests-2] INFO  com.testCases.TC_001_AccountRegistration - *********Starting Accountregitration testcase**********
+2026-10-05 19:27:44 [TestNG-tests-1] INFO  com.testCases.TC_001_AccountRegistration - click on myaccount
+2026-10-05 19:27:44 [TestNG-tests-2] INFO  com.testCases.TC_001_AccountRegistration - click on myaccount

@@ -1,0 +1,2 @@
+2026-10-07 20:08:58 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\admin\eclipse-workspace2\AutoZen\testng.xml] otherwise TestNG may fail or not work as expected.
+2026-10-07 20:08:59 [main] INFO  com.testCases.TC_001_AccountRegistration - Opening chrome browser
