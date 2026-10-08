@@ -1,5 +1,4 @@
 package com.testBase;
-
 import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.FileReader;
@@ -8,7 +7,6 @@ import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.util.Date;
 import java.util.Properties;
-
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.logging.log4j.LogManager;
@@ -69,6 +67,7 @@ public void Setup(String br) throws IOException
 	driver.manage().window().maximize();
 	
 }
+
 @AfterClass
 public void Teardown()
 {
