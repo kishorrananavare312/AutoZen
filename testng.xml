@@ -6,6 +6,8 @@
   <classes>
 <class name="com.testCases.TC_001_AccountRegistration"/>
         <class name="com.testCases.TC_002_UserLogin"/>
+        <class name="com.testCases.TC_003_SearchCorrectProduct"/>
+         
  </classes>
   </test> <!-- Test -->
   

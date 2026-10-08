@@ -1,2 +1,2 @@
 cd C:\Users\admin\eclipse-workspace2\AutoZen
-mvn test
+mvn clean test

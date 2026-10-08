@@ -1,0 +1,17 @@
+2026-10-08 13:52:20 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\admin\eclipse-workspace2\AutoZen\testng.xml] otherwise TestNG may fail or not work as expected.
+2026-10-08 13:52:21 [main] INFO  com.testCases.TC_001_AccountRegistration - Opening chrome browser
+2026-10-08 13:52:25 [main] INFO  com.testCases.TC_001_AccountRegistration - *********Starting Accountregitration testcase**********
+2026-10-08 13:52:25 [main] INFO  com.testCases.TC_001_AccountRegistration - click on myaccount
+2026-10-08 13:52:26 [main] INFO  com.testCases.TC_001_AccountRegistration - click on Register
+2026-10-08 13:52:26 [main] INFO  com.testCases.TC_001_AccountRegistration - Providing customer details
+2026-10-08 13:52:31 [main] INFO  com.testCases.TC_001_AccountRegistration - Valaidating confirmation message
+2026-10-08 13:52:31 [main] INFO  com.testCases.TC_001_AccountRegistration - Account Created Successfully
+2026-10-08 13:52:31 [main] INFO  com.testCases.TC_001_AccountRegistration - Account regstration test is finished
+2026-10-08 13:52:32 [main] INFO  com.testCases.TC_002_UserLogin - Opening chrome browser
+2026-10-08 13:52:35 [main] INFO  com.testCases.TC_002_UserLogin - *********Starting UserLogin testcase**********
+2026-10-08 13:52:35 [main] INFO  com.testCases.TC_002_UserLogin - click on Myaccount
+2026-10-08 13:52:35 [main] INFO  com.testCases.TC_002_UserLogin - click on Login
+2026-10-08 13:52:35 [main] INFO  com.testCases.TC_002_UserLogin - Providing login details
+2026-10-08 13:52:35 [main] INFO  com.testCases.TC_002_UserLogin - Validating login details
+2026-10-08 13:52:37 [main] INFO  com.testCases.TC_002_UserLogin - Login Successfully
+2026-10-08 13:52:37 [main] INFO  com.testCases.TC_002_UserLogin - login test is finished

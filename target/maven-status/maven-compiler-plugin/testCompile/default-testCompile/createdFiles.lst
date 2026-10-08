@@ -1,0 +1,4 @@
+com\testBase\TestBase.class
+com\testCases\TC_001_AccountRegistration.class
+com\testCases\TC_003_ProductSearch.class
+com\testCases\TC_002_UserLogin.class
