@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-10-07T20:26:13 IST" name="Parallel Suite" finished-at="2026-10-07T20:26:37 IST" duration-ms="24374">
+  <suite started-at="2026-10-08T13:28:24 IST" name="Parallel Suite" finished-at="2026-10-08T13:28:45 IST" duration-ms="20908">
     <groups>
       <group name="Sanity">
         <method signature="TC_001_AccountRegistration.accountregistrationverify()[pri:0, instance:com.testCases.TC_001_AccountRegistration@7d7758be]" name="accountregistrationverify" class="com.testCases.TC_001_AccountRegistration"/>
@@ -12,9 +12,9 @@
         <method signature="TC_002_UserLogin.Userlogin()[pri:0, instance:com.testCases.TC_002_UserLogin@41488b16]" name="Userlogin" class="com.testCases.TC_002_UserLogin"/>
       </group> <!-- Regression -->
     </groups>
-    <test started-at="2026-10-07T20:26:13 IST" name="Test" finished-at="2026-10-07T20:26:37 IST" duration-ms="24374">
+    <test started-at="2026-10-08T13:28:24 IST" name="Test" finished-at="2026-10-08T13:28:45 IST" duration-ms="20908">
       <class name="com.testCases.TC_001_AccountRegistration">
-        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.testCases.TC_001_AccountRegistration@7d7758be]" started-at="2026-10-07T20:26:13 IST" name="Setup" finished-at="2026-10-07T20:26:25 IST" duration-ms="12296" status="PASS">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.testCases.TC_001_AccountRegistration@7d7758be]" started-at="2026-10-08T13:28:24 IST" name="Setup" finished-at="2026-10-08T13:28:32 IST" duration-ms="8190" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -25,17 +25,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="accountregistrationverify()[pri:0, instance:com.testCases.TC_001_AccountRegistration@7d7758be]" started-at="2026-10-07T20:26:25 IST" name="accountregistrationverify" finished-at="2026-10-07T20:26:31 IST" duration-ms="6524" status="PASS">
+        <test-method signature="accountregistrationverify()[pri:0, instance:com.testCases.TC_001_AccountRegistration@7d7758be]" started-at="2026-10-08T13:28:32 IST" name="accountregistrationverify" finished-at="2026-10-08T13:28:39 IST" duration-ms="6874" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- accountregistrationverify -->
-        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.testCases.TC_001_AccountRegistration@7d7758be]" started-at="2026-10-07T20:26:32 IST" name="Teardown" finished-at="2026-10-07T20:26:32 IST" duration-ms="413" status="PASS">
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.testCases.TC_001_AccountRegistration@7d7758be]" started-at="2026-10-08T13:28:39 IST" name="Teardown" finished-at="2026-10-08T13:28:39 IST" duration-ms="163" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Teardown -->
       </class> <!-- com.testCases.TC_001_AccountRegistration -->
       <class name="com.testCases.TC_002_UserLogin">
-        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.testCases.TC_002_UserLogin@41488b16]" started-at="2026-10-07T20:26:32 IST" name="Setup" finished-at="2026-10-07T20:26:35 IST" duration-ms="2585" status="PASS">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.testCases.TC_002_UserLogin@41488b16]" started-at="2026-10-08T13:28:39 IST" name="Setup" finished-at="2026-10-08T13:28:42 IST" duration-ms="2946" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -46,11 +46,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="Userlogin()[pri:0, instance:com.testCases.TC_002_UserLogin@41488b16]" started-at="2026-10-07T20:26:35 IST" name="Userlogin" finished-at="2026-10-07T20:26:37 IST" duration-ms="2108" status="PASS">
+        <test-method signature="Userlogin()[pri:0, instance:com.testCases.TC_002_UserLogin@41488b16]" started-at="2026-10-08T13:28:42 IST" name="Userlogin" finished-at="2026-10-08T13:28:45 IST" duration-ms="2319" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Userlogin -->
-        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.testCases.TC_002_UserLogin@41488b16]" started-at="2026-10-07T20:26:37 IST" name="Teardown" finished-at="2026-10-07T20:26:37 IST" duration-ms="238" status="PASS">
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.testCases.TC_002_UserLogin@41488b16]" started-at="2026-10-08T13:28:45 IST" name="Teardown" finished-at="2026-10-08T13:28:45 IST" duration-ms="158" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Teardown -->
