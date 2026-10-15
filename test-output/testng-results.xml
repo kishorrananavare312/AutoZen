@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-10-10T12:14:29 IST" name="Parallel Suite" finished-at="2026-10-10T12:14:51 IST" duration-ms="22144">
+  <suite started-at="2026-10-15T17:01:10 IST" name="Parallel Suite" finished-at="2026-10-15T17:01:45 IST" duration-ms="34856">
     <groups>
       <group name="Sanity">
         <method signature="TC_001_AccountRegistration.accountregistrationverify()[pri:0, instance:com.testCases.TC_001_AccountRegistration@5f9edf14]" name="accountregistrationverify" class="com.testCases.TC_001_AccountRegistration"/>
@@ -12,9 +12,9 @@
         <method signature="TC_002_UserLogin.Userlogin()[pri:0, instance:com.testCases.TC_002_UserLogin@2eea88a1]" name="Userlogin" class="com.testCases.TC_002_UserLogin"/>
       </group> <!-- Regression -->
     </groups>
-    <test started-at="2026-10-10T12:14:29 IST" name="Test" finished-at="2026-10-10T12:14:51 IST" duration-ms="22144">
+    <test started-at="2026-10-15T17:01:10 IST" name="Test" finished-at="2026-10-15T17:01:45 IST" duration-ms="34856">
       <class name="com.testCases.TC_001_AccountRegistration">
-        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.testCases.TC_001_AccountRegistration@5f9edf14]" started-at="2026-10-10T12:14:29 IST" name="Setup" finished-at="2026-10-10T12:14:34 IST" duration-ms="5111" status="PASS">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.testCases.TC_001_AccountRegistration@5f9edf14]" started-at="2026-10-15T17:01:10 IST" name="Setup" finished-at="2026-10-15T17:01:16 IST" duration-ms="5737" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -25,17 +25,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="accountregistrationverify()[pri:0, instance:com.testCases.TC_001_AccountRegistration@5f9edf14]" started-at="2026-10-10T12:14:34 IST" name="accountregistrationverify" finished-at="2026-10-10T12:14:40 IST" duration-ms="6399" status="PASS">
+        <test-method signature="accountregistrationverify()[pri:0, instance:com.testCases.TC_001_AccountRegistration@5f9edf14]" started-at="2026-10-15T17:01:16 IST" name="accountregistrationverify" finished-at="2026-10-15T17:01:22 IST" duration-ms="6741" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- accountregistrationverify -->
-        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.testCases.TC_001_AccountRegistration@5f9edf14]" started-at="2026-10-10T12:14:40 IST" name="Teardown" finished-at="2026-10-10T12:14:41 IST" duration-ms="212" status="PASS">
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.testCases.TC_001_AccountRegistration@5f9edf14]" started-at="2026-10-15T17:01:22 IST" name="Teardown" finished-at="2026-10-15T17:01:23 IST" duration-ms="381" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Teardown -->
       </class> <!-- com.testCases.TC_001_AccountRegistration -->
       <class name="com.testCases.TC_003_SearchCorrectProduct">
-        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.testCases.TC_003_SearchCorrectProduct@7ac296f6]" started-at="2026-10-10T12:14:45 IST" name="Setup" finished-at="2026-10-10T12:14:48 IST" duration-ms="2481" status="PASS">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.testCases.TC_003_SearchCorrectProduct@7ac296f6]" started-at="2026-10-15T17:01:38 IST" name="Setup" finished-at="2026-10-15T17:01:42 IST" duration-ms="3461" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -46,17 +46,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="searchproduct()[pri:0, instance:com.testCases.TC_003_SearchCorrectProduct@7ac296f6]" started-at="2026-10-10T12:14:48 IST" name="searchproduct" finished-at="2026-10-10T12:14:51 IST" duration-ms="2614" status="PASS">
+        <test-method signature="searchproduct()[pri:0, instance:com.testCases.TC_003_SearchCorrectProduct@7ac296f6]" started-at="2026-10-15T17:01:42 IST" name="searchproduct" finished-at="2026-10-15T17:01:44 IST" duration-ms="2870" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchproduct -->
-        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.testCases.TC_003_SearchCorrectProduct@7ac296f6]" started-at="2026-10-10T12:14:51 IST" name="Teardown" finished-at="2026-10-10T12:14:51 IST" duration-ms="197" status="PASS">
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.testCases.TC_003_SearchCorrectProduct@7ac296f6]" started-at="2026-10-15T17:01:44 IST" name="Teardown" finished-at="2026-10-15T17:01:45 IST" duration-ms="182" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Teardown -->
       </class> <!-- com.testCases.TC_003_SearchCorrectProduct -->
       <class name="com.testCases.TC_002_UserLogin">
-        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.testCases.TC_002_UserLogin@2eea88a1]" started-at="2026-10-10T12:14:41 IST" name="Setup" finished-at="2026-10-10T12:14:43 IST" duration-ms="2475" status="PASS">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.testCases.TC_002_UserLogin@2eea88a1]" started-at="2026-10-15T17:01:23 IST" name="Setup" finished-at="2026-10-15T17:01:26 IST" duration-ms="2738" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -67,11 +67,48 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="Userlogin()[pri:0, instance:com.testCases.TC_002_UserLogin@2eea88a1]" started-at="2026-10-10T12:14:43 IST" name="Userlogin" finished-at="2026-10-10T12:14:45 IST" duration-ms="2286" status="PASS">
+        <test-method signature="Userlogin()[pri:0, instance:com.testCases.TC_002_UserLogin@2eea88a1]" started-at="2026-10-15T17:01:26 IST" name="Userlogin" finished-at="2026-10-15T17:01:38 IST" duration-ms="12334" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Assertion Failed: expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Assertion Failed: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at com.testCases.TC_002_UserLogin.Userlogin(TC_002_UserLogin.java:52)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Userlogin -->
-        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.testCases.TC_002_UserLogin@2eea88a1]" started-at="2026-10-10T12:14:45 IST" name="Teardown" finished-at="2026-10-10T12:14:45 IST" duration-ms="147" status="PASS">
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.testCases.TC_002_UserLogin@2eea88a1]" started-at="2026-10-15T17:01:38 IST" name="Teardown" finished-at="2026-10-15T17:01:38 IST" duration-ms="176" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Teardown -->

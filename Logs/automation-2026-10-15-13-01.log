@@ -1,0 +1,5 @@
+2026-10-15 13:01:01 [main] INFO  com.testCases.TC_003_SearchCorrectProduct - *********Starting SearchProduct testcase**********
+2026-10-15 13:01:01 [main] INFO  com.testCases.TC_003_SearchCorrectProduct - Enter iMac procuctname
+2026-10-15 13:01:04 [main] INFO  com.testCases.TC_003_SearchCorrectProduct - click on Searchproduct
+2026-10-15 13:01:04 [main] INFO  com.testCases.TC_003_SearchCorrectProduct - Valadating correct product
+2026-10-15 13:01:04 [main] INFO  com.testCases.TC_003_SearchCorrectProduct - product match
