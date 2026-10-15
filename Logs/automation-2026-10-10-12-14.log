@@ -1,0 +1,22 @@
+2026-10-10 12:14:29 [main] INFO  com.testCases.TC_001_AccountRegistration - Opening chrome browser
+2026-10-10 12:14:34 [main] INFO  com.testCases.TC_001_AccountRegistration - *********Starting Accountregitration testcase**********
+2026-10-10 12:14:34 [main] INFO  com.testCases.TC_001_AccountRegistration - click on myaccount
+2026-10-10 12:14:35 [main] INFO  com.testCases.TC_001_AccountRegistration - click on Register
+2026-10-10 12:14:35 [main] INFO  com.testCases.TC_001_AccountRegistration - Providing customer details
+2026-10-10 12:14:40 [main] INFO  com.testCases.TC_001_AccountRegistration - Valaidating confirmation message
+2026-10-10 12:14:40 [main] INFO  com.testCases.TC_001_AccountRegistration - Account Created Successfully
+2026-10-10 12:14:40 [main] INFO  com.testCases.TC_001_AccountRegistration - Account regstration test is finished
+2026-10-10 12:14:41 [main] INFO  com.testCases.TC_002_UserLogin - Opening chrome browser
+2026-10-10 12:14:43 [main] INFO  com.testCases.TC_002_UserLogin - *********Starting UserLogin testcase**********
+2026-10-10 12:14:43 [main] INFO  com.testCases.TC_002_UserLogin - click on Myaccount
+2026-10-10 12:14:44 [main] INFO  com.testCases.TC_002_UserLogin - click on Login
+2026-10-10 12:14:44 [main] INFO  com.testCases.TC_002_UserLogin - Providing login details
+2026-10-10 12:14:44 [main] INFO  com.testCases.TC_002_UserLogin - Validating login details
+2026-10-10 12:14:45 [main] INFO  com.testCases.TC_002_UserLogin - Login Successfully
+2026-10-10 12:14:45 [main] INFO  com.testCases.TC_002_UserLogin - login test is finished
+2026-10-10 12:14:45 [main] INFO  com.testCases.TC_003_SearchCorrectProduct - Opening chrome browser
+2026-10-10 12:14:48 [main] INFO  com.testCases.TC_003_SearchCorrectProduct - *********Starting SearchProduct testcase**********
+2026-10-10 12:14:48 [main] INFO  com.testCases.TC_003_SearchCorrectProduct - Enter iMac procuctname
+2026-10-10 12:14:50 [main] INFO  com.testCases.TC_003_SearchCorrectProduct - click on Searchproduct
+2026-10-10 12:14:50 [main] INFO  com.testCases.TC_003_SearchCorrectProduct - Valadating correct product
+2026-10-10 12:14:51 [main] INFO  com.testCases.TC_003_SearchCorrectProduct - product match
